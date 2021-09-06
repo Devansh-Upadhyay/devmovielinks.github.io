@@ -209,7 +209,7 @@
           <div class="col-lg-9 text-center text-lg-left">
             <h3 class="cta-title">Join the Gang </h3>
             <p class="cta-text"> The wait is over now. Just a few steps more to become the member of our family. Apply here for the Google Drive Access by signing into your Google Account</p>
-			<p class="cta-text"><font color="red">(Note : Make sure you have an email application installed on your device, else the link wont work.)</font></p>
+			<p class="cta-text"><font color="red">(Note: Make sure you have an email application installed on your device, else the link wont work)</font></p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="mailto:dev.movielinks@gmail.com?
@@ -233,7 +233,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-6">
             <div class="member">
-              <div class="pic"><img src="img/photone.jpeg" alt=""></div>
+              <div class="pic"><img src="img/photone.jpg" alt=""></div>
               <h4>Devansh Upadhyay</h4>
               <span>Chief Executive Officer</span>
               <div class="social">
